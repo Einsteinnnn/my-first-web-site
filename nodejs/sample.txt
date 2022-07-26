@@ -1,0 +1,43 @@
+Organization
+This text follows a bottom-up arrangement of subjects that progresses from
+the concrete to the abstract—an order that results in a sound pedagogical
+presentation in which each topic leads to the next. It begins with the fundamentals of information encoding, data storage, and computer architecture
+(Chapters 1 and 2); progresses to the study of operating systems (Chapter 3) and
+computer networks (Chapter 4); investigates the topics of algorithms, programming languages, and software development (Chapters 5 through 7); explores
+techniques for enhancing the accessibility of information (Chapters 8 and 9);
+considers some major applications of computer technology via graphics
+(Chapter 10) and artificial intelligence (Chapter 11); and closes with an
+introduction to the abstract theory of computation (Chapter 12).
+Although the text follows this natural progression, the individual chapters
+and sections are surprisingly independent and can usually be read as isolated
+units or rearranged to form alternative sequences of study. Indeed, the book is
+often used as a text for courses that cover the material in a variety of orders. One
+of these alternatives begins with material from Chapters 5 and 6 (Algorithms
+and Programming Languages) and returns to the earlier chapters as desired.
+I also know of one course that starts with the material on computability from
+Chapter 12. In still other cases, the text has been used in “senior capstone”
+courses where it serves as merely a backbone from which to branch into projects
+in different areas. Courses for less technically oriented audiences may want to
+concentrate on Chapters 4 (Networking and the Internet), 9 (Database Systems),
+10 (Computer Graphics), and 11 (Artificial Intelligence).
+On the opening page of each chapter, we have used asterisks to mark
+some sections as optional. These are sections that cover topics of more specific interest, or perhaps explore traditional topics in more depth. Our intention is merely to provide suggestions for alternative paths through the text.
+There are, of course, other shortcuts. In particular, if you are looking for a
+quick read, we suggest the following sequence:
+Section Topic
+1.1–1.4 Basics of data encoding and storage
+2.1–2.3 Machine architecture and machine language
+3.1–3.3 Operating systems
+4.1–4.3 Networking and the Internet
+5.1–5.4 Algorithms and algorithm design
+6.1–6.4 Programming languages
+7.1–7.2 Software engineering
+8.1–8.3 Data abstractions
+9.1–9.2 Database systems
+10.1–10.2 Computer graphics
+11.1–11.3 Artificial intelligence
+12.1–12.2 Theory of computation
+There are several themes woven throughout the text. One is that computer science is dynamic. The text repeatedly presents topics in a historical
+
+10 Preface
+perspective, discusses the current state of affairs, a
